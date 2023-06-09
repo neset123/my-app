@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/my-app/static/css/main.509959f3.css",
+    "main.js": "/my-app/static/js/main.a2f5011d.js",
+    "static/js/787.28cb0dcd.chunk.js": "/my-app/static/js/787.28cb0dcd.chunk.js",
+    "static/media/Rose-Color-Palette-1-Photolodico.jpg": "/my-app/static/media/Rose-Color-Palette-1-Photolodico.3278f560ae6128e53c9d.jpg",
+    "static/media/new.png": "/my-app/static/media/new.5226a9f40b2fd54676d5.png",
+    "static/media/logo.svg": "/my-app/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/my-app/index.html",
+    "main.509959f3.css.map": "/my-app/static/css/main.509959f3.css.map",
+    "main.a2f5011d.js.map": "/my-app/static/js/main.a2f5011d.js.map",
+    "787.28cb0dcd.chunk.js.map": "/my-app/static/js/787.28cb0dcd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.509959f3.css",
+    "static/js/main.a2f5011d.js"
+  ]
+}
