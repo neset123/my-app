@@ -42,7 +42,7 @@ const Header = (headProps) =>  <h5>{headProps.text}</h5>//props lesson:2
       Certificates &nbsp;<span className="material-icons">workspace_premium</span>
     </Dropdown.Item>
 <Dropdown.Item onClick={() => window.location.href = "https://blog95696.wordpress.com/"}>
-      Motivation Letter &nbsp;<span className="material-icons">workspace_premium</span>
+      Motivation Letter &nbsp;<span class="material-symbols-outlined">description</span>
     </Dropdown.Item>
   </Dropdown.Menu>
     </Dropdown>
