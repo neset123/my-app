@@ -41,6 +41,9 @@ const Header = (headProps) =>  <h5>{headProps.text}</h5>//props lesson:2
     <Dropdown.Item onClick={() => window.location.href = "https://drive.google.com/drive/folders/1q6bJhkfCDdY_xqALrpOQ2dyV70uio0lH?usp=sharing"}>
       Certificates &nbsp;<span className="material-icons">workspace_premium</span>
     </Dropdown.Item>
+<Dropdown.Item onClick={() => window.location.href = "https://blog95696.wordpress.com/"}>
+      Motivation Letter &nbsp;<span className="material-icons">workspace_premium</span>
+    </Dropdown.Item>
   </Dropdown.Menu>
     </Dropdown>
     
